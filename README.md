@@ -8,8 +8,8 @@ To stabilize the rocket in the launch tube, upper and lower sabots were used. Th
 The SS25 has two types of grid fins for stabilization. 
 ![Picture from Air and Space Museum](SS25_grid_fins_smithsonian.jpg)
 
-Four of each type are needed for the launch. They specification for the STL files is given in the following PDF.
-[PDF description](SS25_grid_fins.pdf)
+Four of each type are needed for the launch. They specification for the STL files is given [here](SS25_grid_fins.pdf)
+![Grid fins](SS25_grid_fin_print.jpg)
 
 Side by side comparison of the actual launch and the model launch.
 ![Real and model](SS25_launch_comparison.jpg)
